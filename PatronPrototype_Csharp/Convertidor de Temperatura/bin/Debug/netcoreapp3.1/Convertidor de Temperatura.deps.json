@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Convertidor de Temperatura/1.0.0": {
+        "runtime": {
+          "Convertidor de Temperatura.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Convertidor de Temperatura/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

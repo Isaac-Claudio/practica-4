@@ -1,0 +1,12 @@
+C:\Users\Jorge\source\repos\PatronBuilder_Csharp\Traductor Numerico\bin\Debug\Traductor Numerico.exe.config
+C:\Users\Jorge\source\repos\PatronBuilder_Csharp\Traductor Numerico\bin\Debug\Traductor Numerico.exe
+C:\Users\Jorge\source\repos\PatronBuilder_Csharp\Traductor Numerico\bin\Debug\Traductor Numerico.pdb
+C:\Users\Jorge\source\repos\PatronBuilder_Csharp\Traductor Numerico\obj\Debug\Traductor Numerico.csprojAssemblyReference.cache
+C:\Users\Jorge\source\repos\PatronBuilder_Csharp\Traductor Numerico\obj\Debug\Traductor_Numerico.Main.resources
+C:\Users\Jorge\source\repos\PatronBuilder_Csharp\Traductor Numerico\obj\Debug\Traductor_Numerico.Properties.Resources.resources
+C:\Users\Jorge\source\repos\PatronBuilder_Csharp\Traductor Numerico\obj\Debug\Traductor Numerico.csproj.GenerateResource.cache
+C:\Users\Jorge\source\repos\PatronBuilder_Csharp\Traductor Numerico\obj\Debug\Traductor Numerico.exe
+C:\Users\Jorge\source\repos\PatronBuilder_Csharp\Traductor Numerico\obj\Debug\Traductor Numerico.pdb
+C:\Users\Jorge\source\repos\PatronBuilder_Csharp\Traductor Numerico\obj\Debug\Traductor_Numerico.OrigenBinario.resources
+C:\Users\Jorge\source\repos\PatronBuilder_Csharp\Traductor Numerico\obj\Debug\Traductor_Numerico.OrigenDecimal.resources
+C:\Users\Jorge\source\repos\PatronBuilder_Csharp\Traductor Numerico\obj\Debug\Traductor_Numerico.OrigenHex.resources

@@ -1,0 +1,11 @@
+C:\Users\Jorge\source\repos\Piedra, papel, tijeras\bin\Debug\netcoreapp3.1\Piedra, papel, tijeras.exe
+C:\Users\Jorge\source\repos\Piedra, papel, tijeras\bin\Debug\netcoreapp3.1\Piedra, papel, tijeras.deps.json
+C:\Users\Jorge\source\repos\Piedra, papel, tijeras\bin\Debug\netcoreapp3.1\Piedra, papel, tijeras.runtimeconfig.json
+C:\Users\Jorge\source\repos\Piedra, papel, tijeras\bin\Debug\netcoreapp3.1\Piedra, papel, tijeras.runtimeconfig.dev.json
+C:\Users\Jorge\source\repos\Piedra, papel, tijeras\bin\Debug\netcoreapp3.1\Piedra, papel, tijeras.dll
+C:\Users\Jorge\source\repos\Piedra, papel, tijeras\bin\Debug\netcoreapp3.1\Piedra, papel, tijeras.pdb
+C:\Users\Jorge\source\repos\Piedra, papel, tijeras\obj\Debug\netcoreapp3.1\Piedra, papel, tijeras.csprojAssemblyReference.cache
+C:\Users\Jorge\source\repos\Piedra, papel, tijeras\obj\Debug\netcoreapp3.1\Piedra, papel, tijeras.AssemblyInfoInputs.cache
+C:\Users\Jorge\source\repos\Piedra, papel, tijeras\obj\Debug\netcoreapp3.1\Piedra, papel, tijeras.AssemblyInfo.cs
+C:\Users\Jorge\source\repos\Piedra, papel, tijeras\obj\Debug\netcoreapp3.1\Piedra, papel, tijeras.dll
+C:\Users\Jorge\source\repos\Piedra, papel, tijeras\obj\Debug\netcoreapp3.1\Piedra, papel, tijeras.pdb

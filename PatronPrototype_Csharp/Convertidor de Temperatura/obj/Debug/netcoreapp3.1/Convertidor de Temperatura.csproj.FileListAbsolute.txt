@@ -1,0 +1,11 @@
+C:\Users\Jorge\source\repos\Convertidor de Temperatura\bin\Debug\netcoreapp3.1\Convertidor de Temperatura.exe
+C:\Users\Jorge\source\repos\Convertidor de Temperatura\bin\Debug\netcoreapp3.1\Convertidor de Temperatura.deps.json
+C:\Users\Jorge\source\repos\Convertidor de Temperatura\bin\Debug\netcoreapp3.1\Convertidor de Temperatura.runtimeconfig.json
+C:\Users\Jorge\source\repos\Convertidor de Temperatura\bin\Debug\netcoreapp3.1\Convertidor de Temperatura.runtimeconfig.dev.json
+C:\Users\Jorge\source\repos\Convertidor de Temperatura\bin\Debug\netcoreapp3.1\Convertidor de Temperatura.dll
+C:\Users\Jorge\source\repos\Convertidor de Temperatura\bin\Debug\netcoreapp3.1\Convertidor de Temperatura.pdb
+C:\Users\Jorge\source\repos\Convertidor de Temperatura\obj\Debug\netcoreapp3.1\Convertidor de Temperatura.csprojAssemblyReference.cache
+C:\Users\Jorge\source\repos\Convertidor de Temperatura\obj\Debug\netcoreapp3.1\Convertidor de Temperatura.AssemblyInfoInputs.cache
+C:\Users\Jorge\source\repos\Convertidor de Temperatura\obj\Debug\netcoreapp3.1\Convertidor de Temperatura.AssemblyInfo.cs
+C:\Users\Jorge\source\repos\Convertidor de Temperatura\obj\Debug\netcoreapp3.1\Convertidor de Temperatura.dll
+C:\Users\Jorge\source\repos\Convertidor de Temperatura\obj\Debug\netcoreapp3.1\Convertidor de Temperatura.pdb
